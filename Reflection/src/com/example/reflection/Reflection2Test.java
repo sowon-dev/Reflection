@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Java에서 실행되는 클래스나 객체를 컴파일 시점에 결정하는 것이 아닌, runtime에 동적으로 결정하고 실행할 수 있는 기술
  * */
 public class Reflection2Test {
-	// 예외처리 생략
+	// 예외처리 생략-
 	public static void main(String[] args) throws Exception {
 		
 		// 메모리에 클래스 로딩하기 -> 동적로딩 vs 정적로딩(import로 거는 방식: import된다고 로딩되는거 아니고 객체만들때 생김)
